@@ -1,0 +1,7 @@
+params = {
+  "pirate" => {
+    "name" => "Jiayi",
+    "weight" => "50",
+    "height" => "168"
+  }
+}

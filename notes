@@ -1,7 +1,19 @@
 params = {
-  "pirate" => {
-    "name" => "Jiayi",
-    "weight" => "50",
-    "height" => "168"
+  :pirate => {
+    :name => "Jiayi",
+    :weight => "50",
+    :height => "168",
+    :ships => [
+        {
+        :name => "star",
+        :type => "unknown",
+        :booty => "2"
+    }, {
+        :name => "moon",
+        :type => "unknown",
+        :booty => "1"
+    }
+    ]
   }
+
 }
